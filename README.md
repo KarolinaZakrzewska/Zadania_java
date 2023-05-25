@@ -8,3 +8,7 @@ https://github.com/KarolinaZakrzewska/Zadania_java/blob/main/src/main/java/TaskO
 2.	FizzBuzz – Wypisz liczby od 1 do 100, jeżeli liczba jest podzielna przez 3 to wypisz Fizz,
 jeżeli podzielna przez 5 to Buzz, jeżeli podzielna przez 3 i 5 to wypisz FizzBuzz. W przeciwnym wypadku wypisz liczbę. ✅
 https://github.com/KarolinaZakrzewska/Zadania_java/blob/main/src/main/java/TaskTwo.java
+
+3. Palindrom – Użytkownik podaje słowo – sprawdź, czy jest ono palindromem, czyli czy od końca brzmi tak samo,
+jak od początku (np. „abba” to od tyłu też „abba”, więc jest palindromem). ✅
+https://github.com/KarolinaZakrzewska/Zadania_java/blob/main/src/main/java/TaskThree.java
